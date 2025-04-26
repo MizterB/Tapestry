@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    {
+      "name": "feedName",
+      "type": "text",
+      "prompt": "Feed Name",
+      "placeholder": "name of the feed"
+    },
+    {
+      "name": "feedAccounts",
+      "type": "text",
+      "prompt": "Accounts",
+      "placeholder": "comma-separated list of accounts to include in the feed"
+    }
+  ]
+}

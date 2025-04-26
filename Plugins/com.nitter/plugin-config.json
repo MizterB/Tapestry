@@ -1,13 +1,15 @@
 {
-	"id": "com.nitter",
-	"display_name": "X via Nitter",
-	"service_name": "X",
-	"default_color": "gray",
-	"icon": "https://x.com/favicon.ico",
-	"item_style": "post",
-	"site_prompt": "Account page",
-	"site_placeholder": "https://xcancel.com/ACCOUNT",
-	"site_help": "Nitter account page URL",
-	"needs_verification": true,
-	"check_interval": 300
+  "id": "com.nitter",
+  "display_name": "X via Nitter",
+  "service_name": "X",
+  "default_color": "gray",
+  "icon": "https://x.com/favicon.ico",
+  "item_style": "post",
+  "site_prompt": "Nitter URL",
+  "site_placeholder": "https://xcancel.com",
+  "site_help": "Nitter URL",
+  "needs_verification": true,
+  "verify_variables": true,
+  "check_interval": 300,
+  "version": 1
 }
